@@ -19,7 +19,7 @@ body {
 
 .navbar {
   display: flex;
-  justify-content: center; /* Centers items horizontally */
+  justify-content: space-evenly; /* Centers items horizontally */
   align-items: center; /* Centers items vertically */
   padding: 15px 0;
   gap: 20px; /* Adds space between the navbar options */
